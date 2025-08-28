@@ -9,16 +9,16 @@ export const N5_Vocabulary_7: Lesson = {
         `
 In this lesson, you will learn words related to communication and interaction.
 
-1. Name - 名前 (なまえ)
-2. What - 何 (なに)
-3. Telephone - 電話 (でんわ)
-4. Friend - 友人 (ともだち)
-5. Thank you - ありがとう
-6. Thank you (polite) - ありがとうございます
-7. Excuse me; I'm sorry - すみません
-8. No; Not at all - いいえ
-9. Yes - はい
-10. That's right - そうです
+1. Name - 名前 (なまえ)。 
+2. What - 何 (なに)。 
+3. Telephone - 電話 (でんわ)。 
+4. Friend - 友人 (ともだち)。 
+5. Thank you - ありがとう。 
+6. Thank you (polite) - ありがとうございます。 
+7. Excuse me; I'm sorry - すみません。 
+8. No; Not at all - いいえ。 
+9. Yes - はい。 
+10. That's right - そうです。 
         `
     ],
     exercises: [

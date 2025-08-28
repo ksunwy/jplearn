@@ -9,17 +9,17 @@ export const N5_Vocabulary_1: Lesson = {
         `
 In this lesson, you will learn words related to daily routines.
 
-1. Good morning - おはよう
-2. Good morning (polite) - おはようございます
-3. Good afternoon - こんにちは
-4. Good evening - こんばんは
-5. Good night - おやすみ(なさい)
-6. I'll go and come back - 行ってきます (いってきます)
-7. Please go and come back - 行ってらっしゃい
-8. I'm home - ただいま
-9. Welcome home - お帰り(なさい) (おかえり)
-10. Thank you for the meal (before eating) - いただきます
-11. Thank you for the meal (after eating) - ごちそうさま(です)
+1. Good morning - おはよう。 
+2. Good morning (polite) - おはようございます。 
+3. Good afternoon - こんにちは。 
+4. Good evening - こんばんは。 
+5. Good night - おやすみ(なさい)。 
+6. I'll go and come back - 行ってきます (いってきます)。 
+7. Please go and come back - 行ってらっしゃい。 
+8. I'm home - ただいま。 
+9. Welcome home - お帰り(なさい) (おかえり)。 
+10. Thank you for the meal (before eating) - いただきます。 
+11. Thank you for the meal (after eating) - ごちそうさま(です)。 
         `
     ],
     exercises: [

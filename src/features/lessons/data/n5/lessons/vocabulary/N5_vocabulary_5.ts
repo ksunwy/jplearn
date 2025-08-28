@@ -9,16 +9,16 @@ export const N5_Vocabulary_5: Lesson = {
         `
 In this lesson, you will learn the names of academic subjects.
 
-1. Science - 科学 (かがく)
-2. Asian studies - アジア研究 (けんきゅう)
-3. Economics - 経済学 (けいざい)
-4. International relations - 国際関係学 (こくさいかんけい)
-5. Computer - コンピューター
-6. Anthropology - 人類学 (じんるいがく)
-7. Politics - 政治学 (せいじ)
-8. Business - ビジネス
-9. Literature - 文学 (ぶんがく)
-10. History - 歴史 (れきし)
+1. Science - 科学 (かがく)。 
+2. Asian studies - アジア研究 (けんきゅう)。 
+3. Economics - 経済学 (けいざい)。 
+4. International relations - 国際関係学 (こくさいかんけい)。 
+5. Computer - コンピューター。 
+6. Anthropology - 人類学 (じんるいがく)。 
+7. Politics - 政治学 (せいじ)。 
+8. Business - ビジネス。 
+9. Literature - 文学 (ぶんがく)。 
+10. History - 歴史 (れきし)。 
         `
     ],
     exercises: [

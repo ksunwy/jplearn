@@ -9,12 +9,12 @@ export const N5_Vocabulary_8: Lesson = {
         `
 In this lesson, you will learn words related to time and schedules.
 
-1. Now - 今 (いま)
-2. P.M. - 午後 (ごご)
-3. A.M. - 午前 (ごぜん)
-4. O'clock - 時 (じ)
-5. Half - 半 (はん)
-6. Number - 番号 (ばんごう)
+1. Now - 今 (いま)。 
+2. P.M. - 午後 (ごご)。 
+3. A.M. - 午前 (ごぜん)。 
+4. O'clock - 時 (じ)。 
+5. Half - 半 (はん)。 
+6. Number - 番号 (ばんごう)。 
         `
     ],
     exercises: [

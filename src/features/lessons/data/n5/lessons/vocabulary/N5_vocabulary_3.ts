@@ -9,13 +9,13 @@ export const N5_Vocabulary_3: Lesson = {
         `
 In this lesson, you will learn words related to family and relatives.
 
-1. I - 私 (わたし)
-2. Mother - 母 (はは / お母さん)
-3. Father - 父 (ちち / お父さん)
-4. Older sister - 姉 (あね / お姉さん)
-5. Older brother - 兄 (あに)
-6. Younger sister - 妹 (いもうと)
-7. Younger brother - 弟 (おとうと)
+1. I - 私 (わたし)。 
+2. Mother - 母 (はは / お母さん)。 
+3. Father - 父 (ちち / お父さん)。 
+4. Older sister - 姉 (あね / お姉さん)。 
+5. Older brother - 兄 (あに)。 
+6. Younger sister - 妹 (いもうと)。 
+7. Younger brother - 弟 (おとうと)。 
         `
     ],
     exercises: [

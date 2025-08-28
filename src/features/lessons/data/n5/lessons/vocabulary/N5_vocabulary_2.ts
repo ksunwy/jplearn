@@ -9,15 +9,15 @@ export const N5_Vocabulary_2: Lesson = {
         `
 In this lesson, you will learn words related to school life.
 
-1. Student - 学生 (がくせい)
-2. High school - 高校 (こうこう)
-3. College; university - 大学 (だいがく)
-4. First-year student - いちねんせい
-5. Teacher - 先生 (せんせい)
-6. International student - 留学生 (りゅうがくせい)
-7. High school student - 高校生 (こうこうせい)
-8. College student - 大学生 (だいがくせい)
-9. Graduate student - 大学院生 (だいがくいんせい)
+1. Student - 学生 (がくせい)。 
+2. High school - 高校 (こうこう)。 
+3. College; university - 大学 (だいがく)。 
+4. First-year student - いちねんせい。 
+5. Teacher - 先生 (せんせい)。 
+6. International student - 留学生 (りゅうがくせい)。 
+7. High school student - 高校生 (こうこうせい)。 
+8. College student - 大学生 (だいがくせい)。 
+9. Graduate student - 大学院生 (だいがくいんせい)。 
         `
     ],
     exercises: [

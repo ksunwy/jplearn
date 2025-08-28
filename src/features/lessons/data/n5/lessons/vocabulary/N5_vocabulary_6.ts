@@ -9,17 +9,17 @@ export const N5_Vocabulary_6: Lesson = {
         `
 In this lesson, you will learn the names of various occupations.
 
-1. Job; work; occupation - 仕事 (しごと)
-2. Doctor - 医師 (いしゃ)
-3. Office worker - 会社員 (かいしゃいん)
-4. High school student - 高校生 (こうこうせい)
-5. Housewife - 主婦 (しゅふ)
-6. Graduate student - 大学院生 (だいがくいんせい)
-7. College student - 大学生 (だいがくせい)
-8. Lawyer - 弁護士 (べんごし)
-9. Student - 学生 (がくせい)
-10. High school - 高校 (こうこう)
-11. Major - 専攻 (せんこう)
+1. Job; work; occupation - 仕事 (しごと)。 
+2. Doctor - 医師 (いしゃ)。 
+3. Office worker - 会社員 (かいしゃいん)。 
+4. High school student - 高校生 (こうこうせい)。 
+5. Housewife - 主婦 (しゅふ)。 
+6. Graduate student - 大学院生 (だいがくいんせい)。 
+7. College student - 大学生 (だいがくせい)。 
+8. Lawyer - 弁護士 (べんごし)。 
+9. Student - 学生 (がくせい)。 
+10. High school - 高校 (こうこう)。 
+11. Major - 専攻 (せんこう)。 
         `
     ],
     exercises: [

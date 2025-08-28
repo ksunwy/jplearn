@@ -9,13 +9,13 @@ export const N5_Vocabulary_4: Lesson = {
         `
 In this lesson, you will learn the names of countries and nationalities.
 
-1. Japan - 日本 (にほん)
-2. U.S.A. - アメリカ
-3. Britain - イギリス
-4. Australia - オーストラリア
-5. Korea - 韓国 (かんこく)
-6. Sweden - スウェーデン
-7. China - 中国 (ちゅうごく)
+1. Japan - 日本 (にほん)。 
+2. U.S.A. - アメリカ。 
+3. Britain - イギリス。 
+4. Australia - オーストラリア。 
+5. Korea - 韓国 (かんこく)。 
+6. Sweden - スウェーデン。 
+7. China - 中国 (ちゅうごく)。 
         `
     ],
     exercises: [

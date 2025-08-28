@@ -14,9 +14,9 @@ const ChaptersPage = () => {
         {course.title} - Chapters
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 bg-yellow p-10 rounded-2xl">
-        {course.chapters.map(ch => (
+        {course.chapters.map((ch, i) => (
           <Link key={ch.id} to={`/courses/${course.id}/chapters/${ch.id}`}>
-            <Card title={ch.title} hoverable />
+            <Card title={`${i+1}. ${ch.title}`} hoverable />
           </Link>
         ))}
       </div>
