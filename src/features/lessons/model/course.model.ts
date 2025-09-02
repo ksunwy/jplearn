@@ -80,7 +80,7 @@ export const useCourseStore = create<CourseState>((set, get) => ({
   },
 
   addLesson: async (lesson) => {
-    const { db, lessons } = get();
+    const { db } = get();
     if (!db) throw new Error("DB not initialized");
 
     await db.put("lessons", lesson);
