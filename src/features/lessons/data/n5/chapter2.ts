@@ -7,8 +7,8 @@ import { N5_Vocabulary_13 } from "./lessons/vocabulary/N5_vocabulary_13";
 import { N5_Vocabulary_14 } from "./lessons/vocabulary/N5_Vocabulary_14";
 import { N5_Vocabulary_15 } from "./lessons/vocabulary/N5_vocabulary_15";
 
-export const N5_Chapter_1 = {
-    id: "n5_chapter_1",
+export const N5_Chapter_2 = {
+    id: "n5_chapter_2",
     title: "Places and Adjectives",
     lessons: [
         N5_Grammar_7,
